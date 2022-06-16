@@ -59,7 +59,7 @@ avoid_items_of_class = None
 service_name = 'EU Reconciliation Service'
 
 # URL (without the trailing slash) where this server runs
-this_host = 'http://localhost:8000'
+this_host = 'https://openrefine-reconciliation.dev.linkedopendata.eu'
 
 # The default limit on the number of results returned by us
 default_num_results = 25
